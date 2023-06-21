@@ -1,0 +1,15 @@
+{
+  "name": "ksevbot",
+  "version": "1.0.0",
+  "description": "kseb bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/vsvivek1/kbot.git"
+  },
+  "author": "vivek",
+  "license": "ISC"
+}
